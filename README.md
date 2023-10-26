@@ -1,5 +1,5 @@
 # DataScience-Portfolio
-Portfolio of my data science skills and techniques
+Welcome to my Data Science Projects Repository! This repository contains my Portfolio, a collection of my data science projects, showcasing my skills, techniques and expertise in the field.
 
 # Projet 1 : Data cleaning and transformation
 <p> Dataset : Netflix Data: Cleaning, Analysis and Visualization ; https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization </p>
