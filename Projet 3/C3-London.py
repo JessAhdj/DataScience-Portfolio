@@ -10,11 +10,13 @@
 
 import pandas as pd
 import zipfile
-# import kaggle
+import kaggle
 
 ###############################
 ### 2) Get the data, 2 ways ###
 ###############################
+
+# Choose one way by either commenting Way 1 or uncommenting Way 2
 
 # Way 1 - classic #
 data = pd.read_csv('london_merged.csv')
