@@ -13,7 +13,7 @@ Welcome to my Data Science Portfolio Projects repository ! This repository conta
 <p> Tool used : Python </p>
 
 # [Projet 3 : Data visualisation](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%203)
-<p> In this project, I'll focus on the visualization of the bike demand in London between 2015-2017. For this, let's take a look at the amount of bikes rented every hour and it's related parameters, to try and see if there are factors effecting the booking of the cycles and to find the relation between the season, weather or working day with rental. </p>
+<p> In this project, I'll focus on the visualization of the bike demand in London between 2015-2017. For this, let's take a look at the amount of bikes rented every hour and it's related parameters, to try and see if there are factors effecting the booking of the cycles and to find the relation between the season, weather or working day with rental by building a dahsbord with Tableau. </p>
 <p> Dataset : London bike sharing dataset ; https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset </p>
 <p> Tools used : Python (quick cleaning and transformation) and Tableau </p>
 
