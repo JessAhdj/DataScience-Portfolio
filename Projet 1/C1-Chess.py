@@ -12,11 +12,9 @@ import pandas as pd
 import zipfile
 import kaggle
 
-#######################
-### 2) Get the data ###
-#######################
-
-data = pd.read_csv('chessgames.csv')
+###############################
+### 2) Get the data, 2 ways ###
+###############################
 
 # Choose one way by either commenting Way 1 or uncommenting Way 2
 
