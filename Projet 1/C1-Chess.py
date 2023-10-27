@@ -9,12 +9,30 @@
 ##################
 
 import pandas as pd
+import zipfile
+import kaggle
 
 #######################
 ### 2) Get the data ###
 #######################
 
 data = pd.read_csv('chessgames.csv')
+
+# Choose one way by either commenting Way 1 or uncommenting Way 2
+
+# Way 1 - classic #
+data = pd.read_csv('chessgames.csv')
+
+# Way 2 - to be more fancy #
+# download dataset from kaggle using the Kaggle API
+# kaggle datasets download -d datasnaek/chess
+
+# extract the file from the downloaded zip file
+# zipfile_name = 'Chess.zip'
+# with zipfile.ZipFile(zipfile_name, 'r') as file:
+#    file.extractall()
+
+# data = pd.read_csv('chessgames.csv')
 
 ###########################
 ### 3) Date exploration ###
@@ -45,13 +63,14 @@ print('\n--- Data transformation ---\n')
 # Transforming the data for simpler analysis
 
 print('\n- Data cleaning -\n')
+
 # Cleaning the data : remove columns with weird data and the non usefull ones
 data.drop(['id', 'created_at', 'last_move_at', 'white_id', 'black_id'],axis=1,inplace=True) 
 print(data)
 
 print('\n- Data modification -\n')
-# Create new columns for more information on the players
 
+# Create new columns for more information on the players
 level_list=[]
 def level_creator(rating):
     level=str()
@@ -80,7 +99,7 @@ def level_creator(rating):
 data['white_rating'].map(level_creator) # use map for interact  values
 data['white level']=level_list # add new column
 
-level_list=[]    # recreate this list beacuse we will use it for blacks
+level_list=[] # recreate this list beacuse we will use it for blacks
 
 data['black_rating'].map(level_creator)
 data['black level']=level_list # add new column
@@ -97,14 +116,9 @@ print('\n')
 print(data)
 
 print('\n- Data filtering -\n')
+
 # Removing short games
 data = data.loc[data.turns > 2]
-
-# Filtering data based on game type played
-# Less than 3 minutes: Bullet
-# Between 3 and 9: Blitz
-# Between 9 and 16: Rapid
-# More than 16 minutes: Classical
 
 # Filtering data based on color played
 print('Black')
