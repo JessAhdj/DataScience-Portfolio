@@ -4,11 +4,12 @@
 Welcome to my Data Science Portfolio Projects repository ! This repository contains my Portfolio, a collection of my data science projects, showcasing my skills, techniques and expertise in the field of data science.
 
 # [Projet 1 : Data cleaning and transformation](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%201)
-<p> In this project, I'll focus on the pre-treating of a dataset before use for analysis. For this, let's clean and make more clear a dataset of over 20,000 chess games, collected from a selection of users on the popular chess site Lichess.org, who happens to have some stranges values probably miss converted and missing some importants informations.</p>
+<p> In this project, I'll focus on the pre-treating of a dataset before use for analysis. For this, let's clean and make more clear a dataset of over 20 000 chess games, collected from a selection of users on the popular chess site Lichess.org, who happens to have some stranges values probably miss converted and missing some importants informations. </p>
 <p> Dataset : Chess Game Dataset (Lichess) ; https://www.kaggle.com/datasets/datasnaek/chess </p>
 <p> Tool used : Python (Pandas) </p>
 
 # Projet 2 : Data analysis
+<p> In this project, I'll focus on the pre-treating, the analysis and some visualisation of the streamable content of Netflix. For this, let's dive into a dataset of over 8000 TV shows and movies available on Netflix as of 2021, aswell as their metadata, to discover what the data has to tell us. </p>
 <p> Dataset : Netflix Movies and TV Shows ; https://www.kaggle.com/datasets/shivamb/netflix-shows </p>
 <p> Tool used : Python </p>
 
@@ -17,7 +18,7 @@ Welcome to my Data Science Portfolio Projects repository ! This repository conta
 <p> Dataset : London bike sharing dataset ; https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset </p>
 <p> Tools used : Python (quick cleaning and transformation) and Tableau </p>
 
-# Projet 4 : EDA - all in one projet with Python
+# Projet 4 : EDA - all in one projet with Python - WIP
 <p> Dataset : Most Streamed Spotify Songs 2023 ; https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023 </p>
 <p> Tool used : Python </p>
 
