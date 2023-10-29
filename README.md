@@ -8,7 +8,7 @@ Welcome to my Data Science Portfolio Projects repository ! This repository conta
 <p> Dataset : Chess Game Dataset (Lichess) ; https://www.kaggle.com/datasets/datasnaek/chess </p>
 <p> Tool used : Python (Pandas) </p>
 
-# Projet 2 : Data analysis
+# [Projet 2 : Data analysis](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%202)
 <p> In this project, I'll focus on the pre-treating, the analysis and some visualisation of the streamable content of Netflix. For this, let's dive into a dataset of over 8000 TV shows and movies available on Netflix as of 2021, aswell as their metadata, to discover what the data has to tell us. </p>
 <p> Dataset : Netflix Movies and TV Shows ; https://www.kaggle.com/datasets/shivamb/netflix-shows </p>
 <p> Tool used : Python </p>
