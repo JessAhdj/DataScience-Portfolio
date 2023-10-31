@@ -1,5 +1,4 @@
 title: Jessim Ahdjoudj
 description: Welcome to my Data Science portfolio !
 show_downloads: true
-google_analytics:
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
