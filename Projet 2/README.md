@@ -1,7 +1,7 @@
 # Projet 2 : Data analysis
 
 <p> Dataset : Netflix Movies and TV Shows ; https://www.kaggle.com/datasets/shivamb/netflix-shows </p>
-<p> Tool used : Python  </p>
+<p> Tool used : Python (Numpy, Pandas, Seaborn, Matplotlib, Plotly) </p>
 
 **Projet Overwiew**
 - Data cleaning
