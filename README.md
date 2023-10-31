@@ -1,5 +1,7 @@
 # DataScience-Portfolio
 
+![687474~1](https://github.com/JessAhdj/DataScience-Portfolio/assets/128965546/f6af4023-aa6f-4257-80e5-9b4faa79a150)
+
 Welcome to my Data Science Portfolio Projects repository ! This repository contains my Portfolio, a collection of my data science projects, showcasing my skills, techniques and expertise in the field of Data Science. Hope you will enjoy the content !
 <p> By Jessim Ahdjoudj ; https://www.linkedin.com/in/jessim-ahdjoudj-865b0126b/ </p>
 
