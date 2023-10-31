@@ -2,7 +2,7 @@
 
 ![687474~1](https://github.com/JessAhdj/DataScience-Portfolio/assets/128965546/f6af4023-aa6f-4257-80e5-9b4faa79a150)
 
-Welcome to my Data Science Portfolio Projects repository ! This repository contains my Portfolio, a collection of my data science projects, showcasing my skills, techniques and expertise in the field of Data Science. Hope you will enjoy the content !
+Welcome to my Data Science Portfolio Projects repository ! This repository contains my Portfolio, a collection of my Data Science projects, showcasing my skills, techniques and expertise in the field of Data Science. Hope you will enjoy the content !
 <p> By Jessim Ahdjoudj ; https://www.linkedin.com/in/jessim-ahdjoudj-865b0126b/ </p>
 
 # [Projet 1 : Data cleaning and transformation](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%201)
@@ -16,7 +16,7 @@ Welcome to my Data Science Portfolio Projects repository ! This repository conta
 <p> Tool used : Python (Numpy, Pandas, Seaborn, Matplotlib, Plotly) </p>
 
 # [Projet 3 : Data visualisation](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%203)
-<p> In this project, I'll focus on the visualization of the bike share program usage in London between 2015-2017. For this, let's take a look at the amount of bikes rented every hour and it's related parameters, to try and see if there are factors effecting the booking of the cycles and to find the relation between the season, weather or working day with user rental by building a dahsbord with Tableau. </p>
+<p> In this project, I'll focus on the visualization of the "Bike Share Program" usage in London between 2015-2017. For this, let's take a look at the amount of bikes rented every hour and it's related parameters, to try and see if there are factors effecting the booking of the cycles and to find the relation between the season, weather or working day with user rental by building a dahsbord with Tableau. </p>
 <p> Dataset : London bike sharing dataset ; https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset </p>
 <p> Tools used : Python (quick cleaning and transformation with Pandas) and Tableau </p>
 
