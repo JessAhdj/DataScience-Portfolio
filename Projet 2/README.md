@@ -4,3 +4,6 @@
 <p> Tool used : Python  </p>
 
 **Projet Overwiew**
+- Data cleaning
+- In depth data analysis (content type, genres, rating, releases)
+- Data visualisation for help the analysis process
