@@ -5,5 +5,5 @@
 
 **Projet Overwiew**
 - Data cleaning
-- In depth data analysis (content type, genres, rating, releases)
+- In depth data analysis of the content, and its metadata, on Netflix (type, genres, rating, releases)
 - Data visualisation for help the analysis process
