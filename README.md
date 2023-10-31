@@ -1,6 +1,6 @@
 # DataScience-Portfolio
 
-Welcome to my Data Science Portfolio Projects repository ! This repository contains my Portfolio, a collection of my data science projects, showcasing my skills, techniques and expertise in the field of data science. Hope you will enjoy the content !
+Welcome to my Data Science Portfolio Projects repository ! This repository contains my Portfolio, a collection of my data science projects, showcasing my skills, techniques and expertise in the field of Data Science. Hope you will enjoy the content !
 <p> By Jessim Ahdjoudj ; https://www.linkedin.com/in/jessim-ahdjoudj-865b0126b/ </p>
 
 # [Projet 1 : Data cleaning and transformation](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%201)
