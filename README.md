@@ -5,7 +5,7 @@
 Welcome to my Data Science Portfolio Projects repository ! This repository contains my Portfolio, a collection of my Data Science projects, showcasing my skills, techniques and expertise in the field of Data Science. Hope you will enjoy the content !
 <p> By Jessim Ahdjoudj ; https://www.linkedin.com/in/jessim-ahdjoudj-865b0126b/ </p>
 
-# [Projet 1 : EDA](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%201)
+# [Projet 1 : Exploratory Data Analysis (EDA)](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%201)
 <p> WIP. </p>
 
 # [Projet 2 : Database engineering](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%202)
