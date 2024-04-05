@@ -1,2 +1,2 @@
-# Projet 3 : Machine Learning
+# Projet 3 : Analyse de Sentiments d'avis Amazon
 
