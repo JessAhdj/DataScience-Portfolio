@@ -13,11 +13,11 @@ Welcome to my Data Science Portfolio Projects repository ! This repository conta
 # [Projet 1 : Exploratory Data Analysis (EDA)](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%201)
 <p> WIP. </p>
 
-# [Projet 2 : Image Classifier](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%202)
+# [Projet 2 : Image Classifier - Machine Learning](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%202)
 <p> WIP. </p>
 
-# [Projet 3 : Sentiments Analysis](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%203)
+# [Projet 3 : Sentiments Analysis - Machine Learning](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%203)
 <p> WIP. </p>
 
-# [Projet 4 : Machine Learning](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%203)
+# [Projet 4 : TBH](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%204)
 <p> WIP. </p>
