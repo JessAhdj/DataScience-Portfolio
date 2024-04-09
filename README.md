@@ -27,7 +27,7 @@ Pour une conclusion complète, voir le Pdf joint au repository (`Conclusion_EDA_
 
 ## Aperçu
 
-# [Projet 2 : Image Classifier - Machine Learning](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%202)
+# [Projet 2 : Image Classifier (Machine Learning, CNN)](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%202)
 ## Description projet
 Dans ce projet, on cherche à développer un modèle de Machine Learning simple, un classificateur d'images capable de détecter des cartes à jouer. Pour ce faire, on développe un réseau neuronal convolutif (CNN) avec la librairie PyTorch qui est capable de prendre des images, puis de détecter quelle carte est dans cette image après traitement par le modèle (notre CNN).
 
@@ -41,8 +41,22 @@ Dans ce projet, on cherche à développer un modèle de Machine Learning simple,
 
 ## Aperçu
 
-# [Projet 3 : Sentiments Analysis - Machine Learning](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%203)
-<p> WIP. </p>
+# [Projet 3 : Sentiments Analysis (Machine Learning, NLP)](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%203)
+## Description projet
+Dans ce projet, on s'intéresse aux émotions et au feedback d'avis Amazon sur différents produits comestibles raffinés. Pour ce faire, on réalise une Analyse de Sentiments (Sentiment Analysis) dans laquelle on développe un algorithme de Machine Learning de Traitement du Langage Naturel (NLP) pour identifier les émotions derrière le texte des d'avis. Pour ce modèle, on utilisera 2 approches et donc 2 modèles : 
+- Modèle 1 : approche "bag of words" avec usage du VADER (Valence Aware Dictionary and sEntiment Reasoner) Sentiments Scoring (de C.J. Hutto et Eric Gilbert)
+- Modèle 2 : approche "Transformer" avec usage du Roberta Pretrained Model (de Hugging Face)
+
+## Compétences et techniques utilisées
+- [x] Machine Learning
+- [X] Développer un modèle d'Intelligence Artificielle
+- [X] Traitement du Langage Naturel / Natural Language Processing (NLP)
+- [x] VADER (Valence Aware Dictionary and sEntiment Reasoner) Sentiments Scoring / Bag of Words
+- [X] Roberta Pretrained Model / Transformer
+- [x] Analyser un jeu de données
+- [X] Evaluation des performances d'un modèle
+
+## Aperçu
 
 # [Projet 4 : TBH](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%204)
 <p> WIP. </p>
