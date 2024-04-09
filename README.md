@@ -28,7 +28,18 @@ Pour une conclusion complète, voir le Pdf joint au repository (`Conclusion_EDA_
 ## Aperçu
 
 # [Projet 2 : Image Classifier - Machine Learning](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%202)
-<p> WIP. </p>
+## Description projet
+Dans ce projet, on cherche à développer un modèle de Machine Learning simple, un classificateur d'images capable de détecter des cartes à jouer. Pour ce faire, on développe un réseau neuronal convolutif (CNN) avec la librairie PyTorch qui est capable de prendre des images, puis de détecter quelle carte est dans cette image après traitement par le modèle (notre CNN).
+
+## Compétences et techniques utilisées
+- [x] Machine Learning / Deep Learning
+- [X] Développer un modèle d'Intelligence Artificielle
+- [X] Classification automatique
+- [x] Développer un réseau neuronal convolutif (CNN)
+- [x] Analyser un jeu de données
+- [X] Evaluation des performances d'un modèle
+
+## Aperçu
 
 # [Projet 3 : Sentiments Analysis - Machine Learning](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%203)
 <p> WIP. </p>
