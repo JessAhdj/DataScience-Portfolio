@@ -11,7 +11,21 @@ Welcome to my Data Science Portfolio Projects repository ! This repository conta
 <p> By Jessim Ahdjoudj ; https://www.linkedin.com/in/jessim-ahdjoudj-865b0126b/ </p>
 
 # [Projet 1 : Exploratory Data Analysis (EDA)](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%201)
-<p> WIP. </p>
+## Description projet
+Dans ce projet, on s'interesse aux chansons les plus écoutés (càd avec le plus de steams) sur la platforme Spotify en 2023. Pour ce faire, réalisons une Analyse Exploratoire de Données (EDA) complète afin de savoir quels artistes sont les plus écoutés et quelles sont les caractéristiques qu'une chanson doit avoir pour être beaucoup écoutée.
+
+Pour une conclusion complète, voir le Pdf joint au repository (`Conclusion_EDA_Spotify.pdf`).
+
+## Compétences et techniques utilisées
+- [x] Nettoyer un jeu de données
+- [x] Décrire un jeu de données par statistique descriptive
+- [x] Identifier les variables d'intérêts
+- [x] Interpréter et donner un regard critique sur des données graphiques
+- [x] Analyser un jeu de données
+- [x] Partagez les découvertes et conclusion de l'analyse
+- [x] Permettre aux entreprises du secteur musical de prendre des décisions basées sur les données analysées
+
+## Aperçu
 
 # [Projet 2 : Image Classifier - Machine Learning](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%202)
 <p> WIP. </p>
