@@ -26,6 +26,7 @@ Pour une conclusion complète, voir le Pdf joint au repository (`Conclusion_EDA_
 - [x] Permettre aux entreprises du secteur musical de prendre des décisions basées sur les données analysées
 
 ## Aperçu
+![output](https://github.com/JessAhdj/DataScience-Portfolio/assets/128965546/d6255d7b-7e44-46d0-ad59-4d2be5d620be)
 
 # [Projet 2 : Image Classifier (Machine Learning, CNN)](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%202)
 ## Description projet
@@ -40,6 +41,7 @@ Dans ce projet, on cherche à développer un modèle de Machine Learning simple,
 - [X] Evaluation des performances d'un modèle
 
 ## Aperçu
+![output](https://github.com/JessAhdj/DataScience-Portfolio/assets/128965546/23fd738c-a710-4e6d-a43f-fe481ff8a149)
 
 # [Projet 3 : Sentiments Analysis (Machine Learning, NLP)](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%203)
 ## Description projet
@@ -57,6 +59,7 @@ Dans ce projet, on s'intéresse aux émotions et au feedback d'avis Amazon sur d
 - [X] Evaluation des performances d'un modèle
 
 ## Aperçu
+![output](https://github.com/JessAhdj/DataScience-Portfolio/assets/128965546/b9b0e7bc-4947-4d03-be69-6dfe258d2da3)
 
 # [Projet 4 : TBH](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%204)
 <p> WIP. </p>
