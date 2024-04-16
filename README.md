@@ -61,5 +61,14 @@ Dans ce projet, on s'intéresse aux émotions et au feedback d'avis Amazon sur d
 ## Aperçu
 ![output](https://github.com/JessAhdj/DataScience-Portfolio/assets/128965546/b9b0e7bc-4947-4d03-be69-6dfe258d2da3)
 
-# [Projet 4 : TBH](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%204)
-<p> WIP. </p>
+# [Projet 4 : Data visualisation avec un Dashbord](https://github.com/JessAhdj/DataScience-Portfolio/tree/main/Projet%204)
+## Description projet
+Dans ce projet, on s'intéresse aux locations de vélos en libre-service par Santander Cycles (équivalent anglais de Velib'). Pour ce faire, on réalise réalise un Dashbord dynamique et user-friendly permettant de visualiser et d'analyser en temps réel le nombre de vélos loués ainsi que tous les paramètres rendrant en compte et influancant la location.
+
+## Compétences et techniques utilisées
+- [x] Récupération et manipulation de données
+- [X] Analyser un jeu de données
+- [X] Développer un Dashbord sur Tableau
+
+## Aperçu
+![Dashboard 1](https://github.com/JessAhdj/DataScience-Portfolio/assets/128965546/1ed7ed6b-2b5b-47ae-ba3d-7957d2277d1f)
