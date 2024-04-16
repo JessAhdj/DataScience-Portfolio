@@ -1,37 +1,21 @@
-# Projet 4 : Data cleaning and transformation
+# Projet 4 : Data visualisation avec un Dashbord
 
-<p> Dataset : Chess Game Dataset (Lichess) ; https://www.kaggle.com/datasets/datasnaek/chess </p>
-<p> Tool used : Python (Pandas) </p>
+## Description projet
+Dans ce projet, on s'intéresse aux locations de vélos en libre-service par Santander Cycles (équivalent anglais de Velib'). Pour ce faire, on réalise réalise un Dashbord dynamique et user-friendly permettant de visualiser et d'analyser en temps réel le nombre de vélos loués ainsi que tous les paramètres rendrant en compte et influancant la location.
 
-**Projet Overwiew**
-- Preliminary data exploration
-- Data cleaning : removing not usefull columns
-- Data transformation : adding new columns for white and black players levels, rearrange columns to have a more clear dataset
-- Exemple of possible filtering for more in depth analysis based on a specific attribute
+## Dataset
+Le Dataset original est joint au repository et trouvable ici : [london_merged.csv](https://github.com/JessAhdj/DataScience-Portfolio/blob/main/Projet%204/london_merged.csv). Il contient le nombre de vélos louer sur la période 2015-2017, l'heure de la location, le temps d'utilisation, les facteurs métérologiques (température, humidité, force de vent, météo), le jour (semaine ou week-end) et la saison.
+Le Dataset traité et optimisé est également joint au repository et trouvable ici : [london_data_transformed.xlsx](https://github.com/JessAhdj/DataScience-Portfolio/blob/main/Projet%204/london_data_transformed.xlsx).
 
-# Projet 5 : Data analysis
-
-<p> Dataset : Netflix Movies and TV Shows ; https://www.kaggle.com/datasets/shivamb/netflix-shows </p>
-<p> Tool used : Python (Numpy, Pandas, Seaborn, Matplotlib, Plotly) </p>
-
-**Projet Overwiew**
-- Data cleaning
-- In depth data analysis of the content, and its metadata, on Netflix (type, genres, rating, releases)
-- Data visualisation for help the analysis process
-
-# Projet 6 : Data visualisation
-
-<p> Dataset : London bike sharing dataset ; https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset </p>
-<p> Tools used : Python (quick cleaning and transformation with Pandas) and Tableau </p>
-
-**Projet Overwiew**
-- Preliminary data exploration
-- Data transformation : renaming of columns and values with a dictionary to be more clear, data conversion
-- Exportation of the data as excel sheet for use in Tableau
-- Data visualisation : building of an interactive dashbord in Tableau with 5 visualisations
-
-<p> Dashbord preview : </p>
-
+## Dashbord
 ![Dashboard 1](https://github.com/JessAhdj/DataScience-Portfolio/assets/128965546/1ed7ed6b-2b5b-47ae-ba3d-7957d2277d1f)
 
-<p> Link to the dashbord in Tableau : https://public.tableau.com/views/DashbordProjetLondonBikes/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link </p>
+Le Dashbord de ce projet est disponible sur Tableau : [lien](https://public.tableau.com/views/DashbordProjetLondonBikes/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
+
+## Compétences et techniques utilisées
+- [x] Récupération et manipulation de données
+- [X] Analyser un jeu de données
+- [X] Développer un Dashbord sur Tableau
+
+> [!NOTE]
+> Pour fonctionner sur votre machine, ce projet nécessite que vous possediez une version de Python 3.10.6 minimum ainsi que la librairie pandas et le logiciel TableauPublic.
