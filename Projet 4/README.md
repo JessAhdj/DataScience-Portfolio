@@ -1,7 +1,7 @@
 # Projet 4 : Data visualisation avec un Dashbord
 
 ## Description projet
-Dans ce projet, on s'intéresse aux locations de vélos en libre-service par Santander Cycles (équivalent anglais de Velib'). Pour ce faire, on réalise réalise un Dashbord dynamique et user-friendly permettant de visualiser et d'analyser en temps réel le nombre de vélos loués ainsi que tous les paramètres rendrant en compte et influancant la location.
+Dans ce projet, on s'intéresse aux locations de vélos en libre-service par Santander Cycles (équivalent anglais de Velib'). Pour ce faire, on réalise réalise un Dashbord dynamique et user-friendly permettant de visualiser et d'analyser en temps réel le nombre de vélos loués ainsi que tous les paramètres rendant en compte et influençant la location.
 
 ## Dataset
 Le Dataset original est joint au repository et trouvable ici : [london_merged.csv](https://github.com/JessAhdj/DataScience-Portfolio/blob/main/Projet%204/london_merged.csv). Il contient le nombre de vélos louer sur la période 2015-2017, l'heure de la location, le temps d'utilisation, les facteurs métérologiques (température, humidité, force de vent, météo), le jour (semaine ou week-end) et la saison.
