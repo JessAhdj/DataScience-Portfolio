@@ -1,7 +1,7 @@
 # Projet 1 : Analyse Exploratoire de Données (EDA) des chansons Spotify les plus écoutés (steams) en 2023
 
 ## Description projet
-Dans ce projet, on s'interesse aux chansons les plus écoutés (càd avec le plus de steams) sur la platforme Spotify en 2023. Pour ce faire, réalisons une Analyse Exploratoire de Données (EDA) complète afin de savoir quels artistes sont les plus écoutés et quelles sont les caractéristiques qu'une chanson doit avoir pour être beaucoup écoutée.
+Dans ce projet, on s’intéresse aux chansons les plus écoutés (càd avec le plus de steams) sur la plateforme Spotify en 2023. Pour ce faire, réalisons une Analyse Exploratoire de Données (EDA) complète afin de savoir quels artistes sont les plus écoutés et quelles sont les caractéristiques qu'une chanson doit avoir pour être beaucoup écoutée.
 
 ### Dataset
 Le Dataset est joint au repository et trouvable ici : [spotify_2023.csv](https://github.com/JessAhdj/DataScience-Portfolio/blob/main/Projet%201/spotify_2023.csv). Il contient la liste des chansons les plus écoutés de 2023 répertoriées sur Spotify. Le Dataset offre une multitude de fonctionnalités au-delà de ce qui est généralement disponible dans des ensembles de données similaires : il donne un aperçu des attributs, de la popularité et de la présence de chaque chanson sur diverses plateformes musicales. Ainsi, le Dataset comprend des informations telles que le nom de la chanson, le nom du ou des artistes, la date de sortie, les listes de lecture et les graphiques Spotify, les statistiques de streaming, la présence d'Apple Music, la présence de Deezer, les graphiques Shazam et diverses fonctionnalités audio ; informations intéressantes et pertinantes pour une analyse de données approfondie.
