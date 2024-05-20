@@ -12,7 +12,7 @@ L'analyse de ce Dataset montre qu'il semble que les chansons les plus écoutées
 - Clé : on constate que Do Majeur (C#) est la clé la plus utilisée ; 30% dans le top 10 et 15.158% dans les autres top en moyenne.
 - BPM : on constate que le BPM est important ; un rythme supérieur à la fréquence cardiaque, mais pas trop rapide, compris entre 90 BPM et 120 BPM est le plus adéquat.
 
-Pour une conclusion complète, voir le Pdf joint au repository (`Conclusion_EDA_Spotify.pdf`).
+Pour une conclusion complète, voir le Pdf joint au repository : [Conclusion_EDA_Spotify.pdf](https://github.com/JessAhdj/DataScience-Portfolio/blob/main/Projet%201/Conclusion_EDA_Spotify.pdf).
 
 ## Compétences et techniques utilisées
 - [x] Nettoyer un jeu de données
