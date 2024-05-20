@@ -12,7 +12,7 @@ Par Jessim Ahdjoudj ; [https://www.linkedin.com/in/jessim-ahdjoudj-865b0126b/](h
 ## Description projet
 Dans ce projet, on s'interesse aux chansons les plus écoutés (càd avec le plus de steams) sur la platforme Spotify en 2023. Pour ce faire, réalisons une Analyse Exploratoire de Données (EDA) complète afin de savoir quels artistes sont les plus écoutés et quelles sont les caractéristiques qu'une chanson doit avoir pour être beaucoup écoutée.
 
-Pour une conclusion complète, voir le Pdf joint au repository du projet (`Conclusion_EDA_Spotify.pdf`).
+Pour une conclusion complète, voir le Pdf joint au repository du projet : [Conclusion_EDA_Spotify.pdf](https://github.com/JessAhdj/DataScience-Portfolio/blob/main/Projet%201/Conclusion_EDA_Spotify.pdf).
 
 ## Compétences et techniques utilisées
 - [x] Nettoyer un jeu de données
